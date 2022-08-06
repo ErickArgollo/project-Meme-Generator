@@ -1,11 +1,13 @@
 body {
     background-color: rgb(200, 229, 255);
+
 }
 
 header {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-top: -20px;
 }
 header h1 {
     text-align: center;
@@ -60,8 +62,8 @@ header h1 {
 #meme-image-container{
     position: relative;
     margin-top: 30px;
-    height: 500px;
-    width: 500px;
+    height: 350px;
+    width: 350px;
     overflow: hidden;
     background-color: white;
     margin: 0 auto;
@@ -145,6 +147,7 @@ header h1 {
     margin-top: 20px;
     display: inline-block;
     border: 1px solid black;
+    background-color: rgb(34, 222, 255);
     width: 200px;
     height: 200px;
 }
