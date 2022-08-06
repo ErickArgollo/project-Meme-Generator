@@ -1,13 +1,13 @@
 # Seja muito bem-vindo(a) ao meu projeto Meme-Generator! :rocket:
-![bem-vindo(a)](https://github.com/ErickArgollo/project-Color-Guess/blob/main/gifguess.gif)
+![bem-vindo(a)](https://github.com/ErickArgollo/project-Meme-Generator/blob/main/meme-gen.gif)
 
 #### <p>Esse projeto tem como objetivo desenvolver uma aplicação utilizando JavaScript, HTML5 e CSS3. Nesta aplicação o usuário poderá interagir com os memes pré-prontos e deve ser possível fazer upload de imagens para criar novos memes. Adicionei como bônus a escolha da cor da fonte utilizada no meme e a escolha de um background dentre as cores; vermelho, azul e verde. Além de um botão surpresa que combinou perfeitamente com a temática do projeto!!  </p>
 
 ## Link para acessar o projeto
-### <b> <a href="https://erickargollo.github.io/project-Color-Guess/">Color Guess</a> </b> <br>
+### <b> <a href="https://erickargollo.github.io/project-Color-Guess/">Meme Generator</a> </b> <br>
 
 ## Screenshot
-![ScreenShot]
+![ScreenShot](https://github.com/ErickArgollo/project-Meme-Generator/blob/main/meme-gen.png)
 ## Objetivos
   * O usuário poderá escolher uma imagem para fazer upload e criar o própio meme.
   * Devem existir memes pré-prontos que o usuário poderá utilizar.
